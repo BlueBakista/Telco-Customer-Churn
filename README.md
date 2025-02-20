@@ -87,7 +87,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost ngboost scikit-
    ```
 
 ## Contributors
-- Your Name
+- Prasoon Narayan Singh
+- 
 
 ## License
 This project is licensed under the MIT License.
